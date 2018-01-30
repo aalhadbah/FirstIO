@@ -3,8 +3,9 @@
 
 int main() {
     std::string input;
-    std::cout << "What's your first name?" << std::endl;
+    std::cout << "Hi, my name is abdulaziz" << std::endl;
     std::cin >> input;
     std::cout << "Hello, " << input << std::endl;
-    return 0;
+    return 0; //Author : abdulaziz alhadbah
+
 }
